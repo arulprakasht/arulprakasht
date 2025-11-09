@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arul!
 
-I'm a seasoned tech professional with 20+ years of experience building and supporting enterprise products. 
+I'm a seasoned tech professional with experience building and supporting enterprise products. 
 
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/arulprakasht/)
 
